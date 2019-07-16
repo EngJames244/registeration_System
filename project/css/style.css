@@ -1,0 +1,39 @@
+/* Header.php */
+.navbar-expand-lg{
+    background-color: #2f2f2f;
+    color: #fff;
+}
+.navbar-expand-lg .navbar-brand{
+    color: orange;
+}
+/* Footer.php */
+.alert-dark{
+    background-color: #2f2f2f;
+    border: none;
+    color: #fff;
+    border-radius: 0;
+    margin-top: 1.8rem;
+}
+/* Signup.php & Login.php */
+.signup .form-control{
+    width: 50%;
+     display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.h2{
+    font-weight: bold;
+    color: orange;
+    margin: 10px 0;
+}
+form{
+    margin: 10px 0;
+}
+.btn-warning{
+    background-color: orange;
+    color: #fff;
+}
+.btn-warning:hover{
+    background-color: orange;
+    color: #fff;
+}
